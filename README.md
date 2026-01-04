@@ -24,10 +24,15 @@ Here’s a quick overview of some commands:
 ## Contributing
 
 Contributions are welcome! If you want to add a feature or fix a bug:
+
 Fork the repo
+
 Create a new branch (git checkout -b feature/YourFeature)
+
 Commit your changes (git commit -m 'Add some feature')
+
 Push to the branch (git push origin feature/YourFeature)
+
 Open a pull request
 
 ## Support
