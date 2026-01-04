@@ -19,25 +19,7 @@ A friendly and versatile Discord bot designed to enhance my personal server with
 ## Commands
 
 Here’s a quick overview of some commands:
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ZenStarlight/Project-Z-STXR-Rev.-2-.git
-
-2. Navigate to the project folder:
-cd MyDiscordBot
-
-3. Install dependencies:
-npm install
-
-4. Create a .env file in the root directory:
-DISCORD_TOKEN=your-bot-token
-PREFIX=!
-
-5. Start the bot:
-npm start
+(not finished)
 
 ## Contributing
 
@@ -51,6 +33,3 @@ Open a pull request
 ## Support
 
 If you run into issues or need help setting up, open an issue here on GitHub.
-
-DISCORD_TOKEN=your-bot-token
-PREFIX=!
