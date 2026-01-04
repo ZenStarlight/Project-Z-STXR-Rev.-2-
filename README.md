@@ -27,11 +27,11 @@ Contributions are welcome! If you want to add a feature or fix a bug:
 
 Fork the repo
 
-Create a new branch (git checkout -b feature/YourFeature)
+Create a new branch
 
-Commit your changes (git commit -m 'Add some feature')
+Commit your changes
 
-Push to the branch (git push origin feature/YourFeature)
+Push to the branch
 
 Open a pull request
 
