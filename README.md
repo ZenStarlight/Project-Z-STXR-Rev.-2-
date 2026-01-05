@@ -2,7 +2,7 @@
 Discord Project from '22 | Revived
 
 
-A friendly and versatile Discord bot designed to enhance my personal server with fun commands, moderation, and utility. Built with [Discord.js](https://discord.js.org/) and Python.
+A friendly and versatile Discord bot designed to enhance my personal server with fun commands, moderation, and utility. Built with [Discord.py](https://discordpy.readthedocs.io/en/stable/) / Python.
 
 ---
 
